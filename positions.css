@@ -1,0 +1,26 @@
+body { 
+    height:200vh;
+}
+div {
+    width:200px;
+    height:200px;
+    position: absolute;
+}
+#first-div {
+    background-color: royalblue;
+    position: static;
+   
+}
+#second-div{
+    background-color:blanchedalmond;
+    top:20px;
+    left:50px;
+    position: sticky;
+}
+#third-div{
+    background-color: red;
+    width:100px; 
+    height: 100px;
+    top:0; 
+    left:0; 
+}

@@ -1,0 +1,17 @@
+body {color:red;background-color:white; font-family:"Courier New", Montserrat, Arial, "Times New Roman"}
+h1{color:skyblue; font-size:72px;}
+h2{color:thistle;}
+h3{color:wheat;}
+th, td {border:1px solid white;}
+table {border-collapse:collapse;}
+#MyParagraph {
+    background-color:whitesmoke
+}
+.highlighted {
+   background-color:cadetblue; 
+}
+
+.bold{
+   font-weight:bold;
+}
+
